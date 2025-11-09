@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://odoo.alturacodeworks.com/web/image/2279-4b2abbf2/Altura%20logo.png" width="120" alt="Altura Codeworks logo" />
+</p>
 
-<!--
-**ymykhal/ymykhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi, I’m Yuriy Mykhalchuk
 
-Here are some ideas to get you started:
+Founder of [Altura Codeworks](https://alturacodeworks.com) — a small software studio focused on dependable .NET, Angular, and React solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use this profile to host demo projects, prototypes, and technical experiments.
+
+**Featured Demos**
+- 🧭 [DemoTimeTracker (.NET MAUI + SQLite)](https://github.com/ymykhal/DemoTimeTracker)
+- 💼 [JobBoardMini (React + Tailwind)](https://github.com/ymykhal/job-board-mini-demo-app)
+- 💰 [IncomeExpenseTracker (React + Chart.js)](https://github.com/ymykhal/expense-tracker-demo-app)
+
+---
+
+<a href="https://www.upwork.com/agencies/alturacodeworks/">Upwork Agency</a>
