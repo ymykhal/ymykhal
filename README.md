@@ -12,6 +12,7 @@ I use this profile to host demo projects, prototypes, and technical experiments.
 - 🧭 [DemoTimeTracker (.NET MAUI + SQLite)](https://github.com/ymykhal/DemoTimeTracker)
 - 💼 [JobBoardMini (React + Tailwind)](https://github.com/ymykhal/job-board-mini-demo-app)
 - 💰 [IncomeExpenseTracker (React + Chart.js)](https://github.com/ymykhal/expense-tracker-demo-app)
+- ⚙️ [API Gateway Monitor (NestJS + PostgreSQL + Docker)](https://github.com/ymykhal/api-gateway-monitor)
 
 ---
 
