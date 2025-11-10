@@ -4,7 +4,7 @@
 
 ### 👋 Hi, I’m Yuriy Mykhalchuk
 
-Founder of [Altura Codeworks](https://alturacodeworks.com) — a small software studio focused on dependable .NET, Angular, and React solutions.
+Founder of [Altura Codeworks](https://alturacodeworks.com) — a small software studio focused on dependable .NET, NestJS, Angular, and React solutions.
 
 I use this profile to host demo projects, prototypes, and technical experiments.
 
