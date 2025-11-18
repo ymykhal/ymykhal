@@ -14,7 +14,7 @@ I use this profile to host demo projects, prototypes, and technical experiments.
 - 💼 [JobBoardMini (React + Tailwind)](https://github.com/ymykhal/job-board-mini-demo-app) : Mini Job Search Board (React + Tailwind demo)
 - 💰 [IncomeExpenseTracker (React + Chart.js)](https://github.com/ymykhal/expense-tracker-demo-app) : Income and Expense Tracker (React + Tailwind + Chart.js demo)
 - ⚙️ [API Gateway Monitor (NestJS + PostgreSQL + Docker)](https://github.com/ymykhal/api-gateway-monitor) : Minimal backend demo for monitoring API uptime and latency, showcasing clean NestJS architecture and pragmatic DevOps practices.
-
+- 🏥 [Altura EHR Demo (Next.js + Medplum + FHIR)](https://github.com/ymykhal/altura-medplum-demo) : Electronic Health Record demonstration with FHIR R4 compliance, featuring patient management, appointment scheduling with calendar views, and mobile-responsive design.
 ---
 
 <a href="https://www.upwork.com/agencies/alturacodeworks/">Upwork Agency</a>
