@@ -1,20 +1,60 @@
-<p align="center">
-  <img src="https://odoo.alturacodeworks.com/web/image/2279-4b2abbf2/Altura%20logo.png" width="120" alt="Altura Codeworks logo" />
-</p>
+# Hi, I'm Yuriy Mykhalchuk
 
-### 👋 Hi, I’m Yuriy Mykhalchuk
+Technical Lead and hands-on software engineer with a strong background in
+C#/.NET, distributed systems, enterprise software, fintech, and legacy
+modernization.
 
-Founder of [Altura Codeworks](https://alturacodeworks.com) — a boutique software studio focused on dependable .NET, NestJS, Angular, and React solutions.
+I've worked across the full software lifecycle — from taking ownership of
+long-lived production systems and modernizing them incrementally, to designing
+and building new applications and services from scratch.
 
-I use this profile to host demo projects, prototypes, and technical experiments.
+My recent work includes modern .NET, Angular, NestJS, PostgreSQL, Redis,
+Docker, AI-assisted workflows, RAG, and production infrastructure.
 
-**Featured Demos**
+I'm also the founder of [Altura Codeworks](https://alturacodeworks.com) and
+the creator of **AlturaQuantera**, an AI-assisted compliance readiness platform.
 
-- 🧭 [DemoTimeTracker (.NET MAUI + SQLite)](https://github.com/ymykhal/DemoTimeTracker) : Project Time Tracker Demo (.NET MAUI + EF Core (SQLite) + MVVM)
-- 💼 [JobBoardMini (React + Tailwind)](https://github.com/ymykhal/job-board-mini-demo-app) : Mini Job Search Board (React + Tailwind demo)
-- 💰 [IncomeExpenseTracker (React + Chart.js)](https://github.com/ymykhal/expense-tracker-demo-app) : Income and Expense Tracker (React + Tailwind + Chart.js demo)
-- ⚙️ [API Gateway Monitor (NestJS + PostgreSQL + Docker)](https://github.com/ymykhal/api-gateway-monitor) : Minimal backend demo for monitoring API uptime and latency, showcasing clean NestJS architecture and pragmatic DevOps practices.
-- 🏥 [Altura EHR Demo (Next.js + Medplum + FHIR)](https://github.com/ymykhal/altura-medplum-demo) : Electronic Health Record demonstration with FHIR R4 compliance, featuring patient management, appointment scheduling with calendar views, and mobile-responsive design.
----
+This profile contains selected demos, prototypes, and technical experiments.
+Most of my production work has been developed in private commercial repositories.
 
-<a href="https://www.upwork.com/agencies/alturacodeworks/">Upwork Agency</a>
+## Selected Projects
+
+### [DemoTimeTracker](https://github.com/ymykhal/DemoTimeTracker)
+**.NET MAUI · C# · EF Core · SQLite · MVVM**
+
+Cross-platform project time-tracking demo showcasing application structure,
+local persistence, and MVVM-based UI architecture.
+
+### [API Gateway Monitor](https://github.com/ymykhal/api-gateway-monitor)
+**NestJS · PostgreSQL · Docker**
+
+Minimal backend application for monitoring API availability and latency,
+demonstrating service architecture, persistence, scheduled processing, and
+containerized deployment.
+
+### [Altura EHR Demo](https://github.com/ymykhal/altura-medplum-demo)
+**Next.js · Medplum · FHIR R4**
+
+Electronic Health Record prototype exploring healthcare interoperability,
+patient management, scheduling, and FHIR-based data integration.
+
+### [JobBoardMini](https://github.com/ymykhal/job-board-mini-demo-app)
+**React · Tailwind CSS**
+
+Compact job-board application demonstrating a modern React frontend and
+responsive UI implementation.
+
+### [IncomeExpenseTracker](https://github.com/ymykhal/expense-tracker-demo-app)
+**React · Tailwind CSS · Chart.js**
+
+Personal finance dashboard demo with transaction management, summaries,
+visualizations, and responsive UI.
+
+## Current Technical Interests
+
+- Modern .NET and distributed backend systems
+- Legacy application modernization
+- PostgreSQL and data-intensive applications
+- AI-assisted software workflows and RAG
+- Practical software architecture and system integration
+- Docker-based application infrastructure
